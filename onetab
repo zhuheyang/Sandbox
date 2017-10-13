@@ -1,0 +1,176 @@
+http://css.doyoe.com/ | CSS参考手册_web前端开发参考手册系列
+http://es6.ruanyifeng.com/#docs/let | let 和 const 命令 - ECMAScript 6入门
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript | JavaScript | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide | JavaScript 指南 - JavaScript | MDN
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript | 重新介绍 JavaScript（JS 教程） - JavaScript | MDN
+http://bonsaiden.github.io/JavaScript-Garden/zh/#core.semicolon | JavaScript 秘密花园
+http://javascript.ruanyifeng.com/ | JavaScript 标准参考教程（alpha） -- JavaScript 标准参考教程（alpha）
+http://www.jquery123.com/ | jQuery API 中文文档 -- jQuery 中文网
+
+https://www.zhihu.com/people/shudu/activities | 叔度 - 知乎
+https://www.zhihu.com/people/po-ling/activities | 朴灵 - 知乎
+https://www.zhihu.com/people/liuyong25/activities | 天猪(刘勇) - 知乎
+https://www.zhihu.com/people/imk2/activities | 苏千 - 知乎
+https://www.zhihu.com/people/lifesinger/activities | 玉伯 - 知乎
+https://www.zhihu.com/people/dead_horse/activities | 死马 - 知乎
+https://www.zhihu.com/people/sharpmaster/activities | 徐飞 - 知乎
+https://www.zhihu.com/people/popomore/activities | 高皓亮 - 知乎
+
+https://www.zhihu.com/question/28207685/answer/39974928 | Web 前后端分离的意义大吗？ - 知乎
+https://www.zhihu.com/question/22420900/answer/21458811 | 怎样成为全栈工程师（Full Stack Developer）？ - 知乎
+https://www.zhihu.com/question/29552822/answer/44759258 | 如何看待《css权威指南》 (第三版) 中提到的 “HTML可能会逐步被XML所取代” ？ - 知乎
+
+http://www.w3school.com.cn/asp/asp_intro.asp | ASP 简介
+https://www.google.com.hk/search?q=Ajax+%E4%BA%A4%E4%BA%92&oq=Ajax%C2%A0%E4%BA%A4%E4%BA%92&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Ajax 交互 - Google 搜索
+https://www.zhihu.com/question/41944456 | 关于ajax交互和流程？ - 知乎
+http://www.jianshu.com/p/b803a4a7ceec | AJAX交互的二三事 - 简书
+https://rails-practice.com/content/Chapter_3/3.3.html | 视图中的 AJAX 交互 · Rails 实践
+http://www.w3school.com.cn/ajax/ajax_xmlhttprequest_create.asp | AJAX - 创建 XMLHttpRequest 对象
+http://www.w3school.com.cn/ajax/ajax_xmlhttprequest_send.asp | AJAX - 向服务器发送请求
+http://www.bootcss.com/p/git-guide/ | git 使用简易指南
+
+https://getbootstrap.com/docs/3.3/getting-started/ | Getting started · Bootstrap
+https://getbootstrap.com/docs/4.0/getting-started/introduction/ | Introduction · Bootstrap
+http://www.runoob.com/manual/lessguide/ | Less 入门文档
+http://sass-lang.com/ | Sass: Syntactically Awesome Style Sheets
+http://sass-lang.com/guide | Sass: Sass Basics
+
+https://eslint.org/docs/user-guide/command-line-interface | Command Line Interface - ESLint - Pluggable JavaScript linter
+https://eslint.org/docs/rules/ | List of available rules - ESLint - Pluggable JavaScript linter
+https://eslint.org/docs/developer-guide/ | Developer Guide - ESLint - Pluggable JavaScript linter
+https://gruntjs.com/getting-started | Getting started - Grunt: The JavaScript Task Runner
+https://gruntjs.com/configuring-tasks | Configuring tasks - Grunt: The JavaScript Task Runner
+https://gruntjs.com/sample-gruntfile | Sample Gruntfile - Grunt: The JavaScript Task Runner
+
+http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html | 搭建一个免费的，无限流量的Blog----github Pages和Jekyll入门 - 阮一峰的网络日志
+https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/ | Using Jekyll as a static site generator with GitHub Pages - User Documentation
+https://help.github.com/articles/using-a-custom-domain-with-github-pages/ | Using a custom domain with GitHub Pages - User Documentation
+https://help.github.com/categories/github-pages-basics/ | GitHub Help
+
+http://justjavac.com/codepuzzle.html | 代码之谜 - justjavac(迷渡)
+http://justjavac.com/codepuzzle/2012/09/25/codepuzzle-introduction.html | 代码之谜（零）- 开篇/前言/序 - justjavac(迷渡)
+http://justjavac.com/codepuzzle/2012/10/15/codepuzzle-finite-and-infinite.html | 代码之谜（一）- 有限与无限 - justjavac(迷渡)
+http://justjavac.com/codepuzzle/2012/10/28/codepuzzle-expression-and-statement.html | 代码之谜（二）- 语句与表达式 - justjavac(迷渡)
+http://justjavac.com/codepuzzle/2012/10/28/codepuzzle-operator.html | 代码之谜（三）- 运算符 - justjavac(迷渡)
+http://justjavac.com/codepuzzle/2012/11/02/codepuzzle-float-from-surprised-to-ponder.html | 代码之谜（四）- 浮点数（从惊讶到思考） - justjavac(迷渡)
+http://justjavac.com/codepuzzle/2012/11/11/codepuzzle-float-who-stole-your-accuracy.html | 代码之谜（五）- 浮点数（谁偷了你的精度？） - justjavac(迷渡)
+
+https://www.zhihu.com/question/20215561 | WebSocket 是什么原理？为什么可以实现持久连接？ - 知乎
+http://download.csdn.net/download/v_july_v/4478027 | 最新十五个经典算法研究与总结之高清完整PDF文档[带目录+标签]by_July-CSDN下载
+http://download.csdn.net/download/v_july_v/4583815 | 微软面试100题系列之高清完整版PDF文档[带目录+标签]by_July-CSDN下载
+
+http://nodejs.cn/api/en/events.html#events_emitter_eventnames | events | Node.js API 英文文档
+http://expressjs.com/zh-cn/api.html#app.get | Express 4.x - API 参考
+https://www.google.com/search?q=Common+Js&oq=Common+Js&aqs=chrome..69i57j0l5.2555j0j7&sourceid=chrome&ie=UTF-8 | Common Js - Google 搜索
+http://javascript.ruanyifeng.com/nodejs/module.html | CommonJS规范 -- JavaScript 标准参考教程（alpha）
+http://www.ruanyifeng.com/blog/2015/05/commonjs-in-browser.html | 浏览器加载 CommonJS 模块的原理与实现 - 阮一峰的网络日志
+http://zhaoda.net/webpack-handbook/amd.html | AMD 规范 | Webpack 中文指南
+
+https://www.google.com/search?q=omnimarkuppreviewer&oq=omnima&aqs=chrome.2.69i57j69i60j0l4.9220j0j7&sourceid=chrome&ie=UTF-8 | omnimarkuppreviewer - Google 搜索
+http://www.sublimelinter.com/en/latest/usage.html#user-interface | Usage — SublimeLinter 3.4.24 documentation
+
+http://javascript.ruanyifeng.com/oop/this.html | this 关键字 -- JavaScript 标准参考教程（alpha）
+http://javascript.ruanyifeng.com/oop/prototype.html | prototype 对象 -- JavaScript 标准参考教程（alpha）
+
+https://www.zhihu.com/question/24896283 | (1 条消息)Sublime Text 有哪些使用技巧？ - 知乎
+https://gist.github.com/mrliptontea/4c793ebdf72ed145bcbf | Sublime Text 3 - Useful Shortcuts (Windows)
+http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html#linux | Keyboard Shortcuts - Windows/Linux — Sublime Text Unofficial Documentation
+https://github.com/Microsoft/vscode/issues/3776 | Missing keyboard shortcut features from Sublime Text · Issue #3776 · Microsoft/vscode
+http://www.css88.com/archives/5902 | Sublime Text 3常用快捷键 – WEB前端开发 - 专注前端开发，关注用户体验
+http://www.css88.com/archives/5858 | Sublime Text 3最好的功能、插件和设置 – WEB前端开发 - 专注前端开发，关注用户体验
+https://www.google.com/search?num=20&q=%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8+%E5%88%87%E6%8D%A2&oq=%E8%87%AA%E5%8A%A8%E8%A1%A5%E5%85%A8+%E5%88%87%E6%8D%A2&gs_l=psy-ab.3...12153.14072.0.14252.11.10.0.0.0.0.220.670.0j3j1.4.0.foo%2Cnso-ehuqi%3D1%2Cnso-ehuui%3D1%2Cewh%3D0%2Cnso-mplt%3D2%2Cnso-enksa%3D0%2Cnso-enfk%3D1%2Cnso-usnt%3D1%2Cnso-qnt-npqp%3D0-1701%2Cnso-qnt-npdq%3D0-54%2Cnso-qnt-npt%3D0-1%2Cnso-qnt-ndc%3D300%2Ccspa-dspm-nm-mnp%3D0-05%2Ccspa-dspm-nm-mxp%3D0-125%2Cnso-unt-npqp%3D0-17%2Cnso-unt-npdq%3D0-54%2Cnso-unt-npt%3D0-0602%2Cnso-unt-ndc%3D300%2Ccspa-uipm-nm-mnp%3D0-007525%2Ccspa-uipm-nm-mxp%3D0-052675%2Ccfro%3D1...0...1.1j4.64.psy-ab..7.2.365...0j0i7i30k1j0i12k1.0.AEJ5pn7rK5Y | 自动补全 切换 - Google 搜索
+
+https://stackoverflow.com/search?tab=votes&q=nodejs | Highest voted posts containing 'nodejs' - Stack Overflow
+http://blog.csdn.net/caixiaowang/article/details/75042868 | 详谈java内存模型 - caixiaowang的博客 - CSDN博客
+https://segmentfault.com/a/1190000003881087 | 基于gulp，webpack实现灵活的 livereload 服务 - 目田 - SegmentFault
+https://www.npmjs.com/package/webpack-livereload-plugin | webpack-livereload-plugin
+
+https://www.zhihu.com/question/22646257 | (1 条消息)HTML、CSS、JavaScript、PHP、 MySQL 的学习顺序是什么？ - 知乎
+https://book.douban.com/subject_search?search_text=mysql&cat=1001 | 书籍搜索: mysql
+https://book.douban.com/subject/4196842/ | PHP实战 (豆瓣)
+https://book.douban.com/subject/20370984/ | PHP核心技术与最佳实践 (豆瓣)
+https://book.douban.com/subject/10797904/ | 开发高质量PHP框架与应用的实际案例解析 (豆瓣)
+https://book.douban.com/subject/6902577/ | 高性能PHP应用开发 (豆瓣)
+https://book.douban.com/subject_search?start=15&search_text=JavaScript&cat=1001 | 书籍搜索: JavaScript
+
+http://blog.itpub.net/12639375/viewspace-160047 | 单元测试、集成测试和系统测试的基本概念-ITPUB_PMSpace-ITPUB博客
+http://www.cnblogs.com/Silverlight_Team/archive/2009/03/13/1411136.html | C#.net同步异步SOCKET通讯和多线程总结 - silverPerson - 博客园
+http://www.cnblogs.com/liuyong/archive/2010/11/30/1892217.html | Socket 同步和异步模式 - jackyong - 博客园
+https://www.zhihu.com/question/37608201 | c++中，引用和指针的区别是什么？ - 知乎
+
+http://campus.meituan.com/#/ | 美团点评校园招聘
+http://campus.vip.com/job.html?page=5 | 唯品会校招-招聘流程
+http://www.pinduoduo.com/campus.html | 拼多多校园招聘
+http://www.sohucampus.com/ | 搜狐2018校园招聘
+http://meitu.hotjob.cn/wt/Meitu/web/index/applyPositionN300!validateApplyPosition?userLoginType=1&operational=c447e7f07a84f6117cc73523cd6b2dfdf02b3d888f4e7d93edd10984d70811e458a79abb01ea6b33090768b5a3bb8f1243fa7a8e275916e18642e30110a793beaf34c3b50acdf584d49bca3b2234858770825ad757510d37e7c1ee5058f744c7e22739961b90409b | 美图招聘
+http://talent.baidu.com/external/baidu/campus.html#/individualCenter | 百度校园招聘
+
+http://campus.xunlei.com/personal_center.html | 个人中心
+http://hr.sensetime.com/zpdetail/510096600?r=&p=1%5E10&c=&d=&k= | SenseTime商汤科技网申系统--招聘详细
+http://hr.sensetime.com/zpdetail/510096602?r=&p=1%5E10&c=&d=&k= | SenseTime商汤科技网申系统--招聘详细
+http://hr.sensetime.com/zpdetail/510098178?r=&p=1%5E10&c=&d=&k= | SenseTime商汤科技网申系统--招聘详细
+
+https://www.nowcoder.com/contestRoom | 【IT题库】笔试练习_C++Java前端笔试面试题_牛客网
+http://campus.jd.com/home | 京东校园招聘首页
+http://portal.mogujie.com/user/newlogin?redirect_url=http%3A%2F%2Fjob.mogujie.com%2Fcampus%3Fnull | 登录_美丽联合
+http://campus.chinahr.com/company/23595549253249/?from=groupmessage | 58集团2018校园招聘信息 - 中华英才网校园招聘
+http://xz.duoyi.com/home/index.html | 多益网络2018校园招聘-应届生招聘正式启动 欢迎加入游戏互联网行业！
+
+http://blog.sina.com.cn/s/blog_8697aaed010123jv.html | [转载]HTML和css常用颜色rgb和英文名_XM_K5_新浪博客
+http://www.zhangxinxu.com/wordpress/2010/05/%E6%88%91%E5%AF%B9css-vertical-align%E7%9A%84%E4%B8%80%E4%BA%9B%E7%90%86%E8%A7%A3%E4%B8%8E%E8%AE%A4%E8%AF%86%EF%BC%88%E4%B8%80%EF%BC%89/ | 我对CSS vertical-align的一些理解与认识（一） « 张鑫旭-鑫空间-鑫生活
+
+https://www.zhihu.com/question/50392663/answer/121033320 | 关于Spring MVC的教程和例子? - 知乎
+https://course.tianmaying.com/node+client-side-js#0 | 客户端脚本 | 关于Node.js全栈开发的第7部分内容 | 天码营 - 实战开发技术学习服务平台
+https://www.tianmaying.com/tutorial/spring-mvc-DispatcherServlet | Spring MVC DispatcherServlet详解-spring,spring-mvc 相关文章-天码营
+https://www.tianmaying.com/tutorial/spring-mvc-quickstart#0 | Spring MVC快速入门教程-java,spring-mvc,springboot 相关文章-天码营
+https://course.tianmaying.com/spring-mvc+start# | 创建Spring Boot项目 | 关于打造功能完整的博客系统：Spring MVC实战入门的第1部分内容 | 天码营 - 实战开发技术学习服务平台
+https://www.tianmaying.com/tutorial/maven-basic | Maven入门：Maven的基本概念-maven,java 相关文章-天码营
+
+https://www.zhihu.com/question/50392663 | 关于Spring MVC的教程和例子? - 知乎
+https://www.zhihu.com/search?type=content&q=web%20java | web java - 搜索结果 - 知乎
+https://www.google.com/search?q=mybatis%E6%98%AF%E4%BB%80%E4%B9%88&oq=mybatis%E6%98%AF%E4%BB%80%E4%B9%88&aqs=chrome..69i57j69i65j0l4.1803j0j7&sourceid=chrome&ie=UTF-8 | mybatis是什么 - Google 搜索
+https://baike.baidu.com/item/Spring%20MVC | spring MVC_百度百科
+https://www.zhihu.com/question/39678061 | SpringMVC和Spring是什么关系？ - 知乎
+https://www.zhihu.com/question/22014461 | Spring mvc和SSH如何取舍？ - 知乎
+http://www.importnew.com/15141.html | Spring MVC 入门示例讲解 - ImportNew
+http://www.imooc.com/article/7283 | 为什么要用Spring，（以及三大框架简介）_慕课手记
+http://www.cnblogs.com/zhaoyueplc/archive/2013/06/09/3129914.html | Spring 框架简介 - zhaoyueplc - 博客园
+http://www.yiibai.com/spring/spring_overview.html | Spring框架是什么？ - Spring教程™
+http://www.importnew.com/12978.html | 跟我一起学Spring 3(1)–为什么要学Spring - ImportNew
+https://www.google.com/search?q=%E6%8E%A7%E5%88%B6%E5%8F%8D%E8%BD%AC&oq=%E6%8E%A7%E5%88%B6%E5%8F%8D%E8%BD%AC&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | 控制反转 - Google 搜索
+https://www.tutorialspoint.com/spring/spring_environment_setup.htm | Spring Environment Setup
+
+http://blog.jobbole.com/25153/ | 王垠：如何掌握程序语言 - 文章 - 伯乐在线
+https://news.cnblogs.com/n/157776 | 王垠：反省_IT新闻_博客园
+https://www.douban.com/group/topic/12121637/ | 王垠：完全用Linux工作
+http://www.yinwang.org/ | 当然我在扯淡
+http://www.yinwang.org/blog-cn/2017/05/17/practical-idealism | 什么是现实理想主义者
+http://www.yinwang.org/blog-cn/2017/05/16/chinese | 对中国人的信心
+http://www.yinwang.org/blog-cn/2017/05/23/kotlin | Kotlin 和 Checked Exception
+http://www.yinwang.org/blog-cn/2017/07/06/master-pl | 如何掌握所有的程序语言
+http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy | 编程的智慧
+
+http://blog.csdn.net/myan/article/details/52719139 | 区块链开发技术路线选择的思考（之一） - CSDN博客
+http://blog.csdn.net/myan/article/details/73435469 | 观点：深度学习，先跟上再说 - CSDN博客
+https://www.zhihu.com/search?type=content&q=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0 | 深度学习 - 搜索结果 - 知乎
+https://www.zhihu.com/topic/19813032/hot | 深度学习（Deep Learning） - 热门问答 - 知乎
+https://www.zhihu.com/question/26006703 | 深度学习如何入门？ - 知乎
+https://zhuanlan.zhihu.com/p/24768878 | 强烈推荐的机器学习，深度学习课程以及python库 - 知乎专栏
+
+https://www.zhihu.com/search?type=content&q=makefile | (1 条消息) makefile - 搜索结果 - 知乎
+https://www.zhihu.com/people/wen-qing-10-49/answers | (1 条消息)玟清 - 知乎
+http://www.freenom.link/zh/index.html?lang=zh | Freenom World
+http://www.cnblogs.com/wang_yb/p/3990952.html | Makefile 使用总结 - wang_yb - 博客园
+http://bbs.chinaunix.net/thread-408225-2-1.html | 跟我一起写 Makefile - 第2页 - C/C++-ChinaUnix.net
+
+https://linesh.gitbooks.io/spring-mvc-documentation-linesh-translation/content/CONTENTS.html | 目录 · Spring MVC 4.2.4.RELEASE 中文文档
+http://www.mybatis.org/mybatis-3/zh/index.html | mybatis – MyBatis 3 | 简介
+https://git-scm.com/book/zh/v2 | Git - Book
+http://dubbo.io/ | Dubbo
+http://tool.oschina.net/apidocs/apidoc?api=nginx-zh | 在线文档-nginx-zh
+http://freemarker.foofun.cn/ | 什么是 FreeMarker? - FreeMarker 中文官方参考手册
+http://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html | Tutorial: Thymeleaf + Spring
+http://v3.bootcss.com/ | Bootstrap 中文文档 · Bootstrap 是世界上最流行的、移动设备优先的、响应式前端开发框架。
+http://velocity.apache.org/engine/devel/developer-guide.html | Apache Velocity Engine - Developer Guide
+http://velocity.apache.org/ | The Apache Velocity Project
+
