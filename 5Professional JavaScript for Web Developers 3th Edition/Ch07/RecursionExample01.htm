@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Recursion Example</title>
+    </head>
+    <body>
+        <script type="text/javascript">
+        
+            function factorial(num){
+                if (num <= 1){
+                    return 1;
+                } else {
+                    return num * factorial(num-1);
+                }
+            }
+
+            var anotherFactorial = factorial;
+            factorial = null;
+            //activate anotherFactorial must function factorial,
+            //however "factorial" is not a function now, thus error!
+            alert(anotherFactorial(4));  //error!
+
+
+        </script>
+     
+    </body>
+</html>

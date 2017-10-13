@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Recursion Example</title>
+    </head>
+    <body>
+        <script type="text/javascript">
+        
+            function factorial(num){
+                if (num <= 1){
+                    return 1;
+                } else {
+                    return num * arguments.callee(num-1);
+                    //arguments.callee is a pointer to a being executed function, 
+                    //so when you code the recursive function
+                    //it is more safety to use it than the function's name directly!
+                }
+            }
+
+            var anotherFactorial = factorial;
+            factorial = null;
+            alert(anotherFactorial(4));  //24
+
+            //or use named function expression like this:
+            /*var factorial = (function f(num){
+                if (num <= 1){
+                    return 1;
+                } else{
+                    retrun num * f(num-1);
+                }
+            })*/
+            //in this function, you can assign this function to another variable
+            //but the "f"function's name is still working, which can be used in 
+            //strict mode or non-strict mode!
+
+
+        </script>
+     
+    </body>
+</html>

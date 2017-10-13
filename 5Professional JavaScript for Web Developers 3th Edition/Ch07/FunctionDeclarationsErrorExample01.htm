@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Function Declaration Error Example</title>
+</head>
+<body>
+    <script type="text/javascript">
+    
+    // var condition = true;
+    var condition = false;
+    
+    //never do this!
+    //In the if loop, function sayHi is just be defined, but not be activated!
+    if(condition){
+        function sayHi(){
+            alert("Hi!");
+        }
+    } else {
+        function sayHi(){
+            alert("Yo!");
+        }
+    }
+
+    sayHi();
+    //In this place, sayHi is activated, and in the false case, 
+    //It print "Yo!"
+    </script>
+ 
+</body>
+</html>
