@@ -1,0 +1,109 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	margin: 0 35px;
+	padding: 0px;
+	font-size:15px;
+	font-family: "Microsoft Yahei",serif;
+	vertical-align: bottom;
+	background-color: #1d1d1d;
+}
+fieldset {
+	border-color: transparent;
+}
+li {
+	list-style: none;
+}
+.wrapper {
+	overflow: hidden;
+    background:#2c2c2c;
+}
+nav {
+	overflow: hidden;
+	background: #000;
+}
+nav h1 {
+	float: left;
+	color: #fff;
+	padding-top: 15px;
+    padding-left: 20px;
+}
+
+nav ul {
+	float: right;
+	vertical-align: bottom;
+	list-style-type: disc;
+}
+nav li {
+	float: left;
+	padding:20px;
+}
+nav a {
+	float: left;
+	display: block;
+	color: #fff;
+	text-align: center;
+	text-decoration: none;
+}
+nav a:hover {
+	font-weight: bold;
+	opacity: 0.4;
+}
+
+.content {
+	margin: 0px;
+	padding: 10px;
+	background-color: #f0f0f0;
+}
+.first {
+	margin: 10px;
+	padding: 5px;
+	border: 1px solid #aeaeae;
+	background: #fff;
+	box-shadow: 1px 1px 1px #aeaeae;
+	border-radius: 10px;
+}
+.second {
+	margin: 10px;
+	padding: 5px;
+	border: 1px solid #aeaeae;
+	background: #fff;
+	box-shadow: 1px 1px 1px #aeaeae;
+	border-radius: 10px;
+}
+.third {
+	margin: 10px;
+	padding: 5px;
+	border: 1px solid #aeaeae;
+	background: #fff;
+	box-shadow: 1px 1px 1px #aeaeae;
+	border-radius: 10px;
+}
+.four {
+	margin: 10px;
+	padding: 5px;
+	border: 1px solid #aeaeae;
+	background: #fff;
+	box-shadow: 1px 1px 1px #aeaeae;
+	border-radius: 10px;
+}
+aside {
+	margin: 10px;
+	padding: 5px;
+	border: 1px solid #aeaeae;
+	background: #fff;
+	box-shadow: 1px 1px 1px #aeaeae;
+	border-radius: 10px;
+}
+
+footer {
+	position: absolute;
+	left: 35px;
+	right: 35px;
+    padding: 20px;
+	color: #fff;
+	background: #000;
+	text-align: center;
+}
